@@ -20,3 +20,4 @@ print("Lista de Contatos Fazenda Cocoricó!")
 nome = input('Digite o nome do personagem do cocoricó: ').strip()
     
 print(personagens.get(nome, "contato não encontrado"))
+
